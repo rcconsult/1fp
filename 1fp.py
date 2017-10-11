@@ -1,8 +1,4 @@
-import os
 import pyttsx3
-import pygame
-import pyglet
-import OpenGL
 
 engine = pyttsx3.engine.Engine()
 engine.say("Oh a burger")
